@@ -53,6 +53,6 @@ movie-explorer/
 Uses React Router's `Link` component for:
 - Client-side routing without page reloads
 - State preservation
-- Smooth transitions
+- Smooth transitions.
 
 
